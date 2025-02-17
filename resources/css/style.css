@@ -1,0 +1,16 @@
+/*headers */
+h1{
+    font-family:"Verdana", sans-serif;
+    font-weight: normal; 
+    font-size: 50px;
+    color: white; 
+    text-align: center; 
+}
+/*body*/
+body {
+    background-color: black; 
+}
+/*links*/ 
+a {
+    color: aquamarine;
+}
